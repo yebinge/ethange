@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ethange/static/css/main.2a9fe3f8.css",
+    "main.js": "/ethange/static/js/main.3f4870bc.js",
+    "static/media/foodShelter.png": "/ethange/static/media/foodShelter.a0ca9e68a412738f2ece.png",
+    "static/media/melMoment.png": "/ethange/static/media/melMoment.19f18a0988e5b8282c42.png",
+    "static/media/avatar.jpeg": "/ethange/static/media/avatar.b32366faa7a4579924c2.jpeg",
+    "index.html": "/ethange/index.html",
+    "main.2a9fe3f8.css.map": "/ethange/static/css/main.2a9fe3f8.css.map",
+    "main.3f4870bc.js.map": "/ethange/static/js/main.3f4870bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a9fe3f8.css",
+    "static/js/main.3f4870bc.js"
+  ]
+}
